@@ -366,4 +366,22 @@
     #form input{
         width: 10%;
     }
+
+
+
+
+
+
+
+    /* rodape */
+
+    .rodape p {
+        font-size: 10px;
+        color: white;
+        text-align: center;
+    }
+    
+    #rodape_media{
+        margin-right: 20px;
+    }
 }
