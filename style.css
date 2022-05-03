@@ -357,11 +357,11 @@
         font-size: 30px;
         line-height: 1.4;
         color: #242424;
-        margin-left: 24%;
+        margin-left: 28%;
     }
     
     #form{
-        margin-left: -18%;
+        margin-left: -10%;
     }
     
     #form input{
@@ -372,7 +372,7 @@
     }
     #form button{
         margin-top: 50px;
-        margin-left: 30%;
+        margin-left: 32%;
     }
     
     #message{
