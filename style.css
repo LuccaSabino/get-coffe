@@ -357,22 +357,22 @@
         font-size: 30px;
         line-height: 1.4;
         color: #242424;
-        margin-left: 34%;
+        margin-left: 36%;
     }
     
     #form{
-        margin-left: -7%;
+        margin-left: -4%;
     }
     
     #form input{
-        width: 138%;
+        width: 139%;
         height: 35px;
         display: block;
         margin-top: 30px;
     }
     #form button{
         margin-top: 50px;
-        margin-left: 31%;
+        margin-left: 30%;
     }
     
     #message{
